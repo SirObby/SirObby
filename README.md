@@ -30,7 +30,6 @@ int main() {
         std::cout << l[i] << "\n";
     }
     
-
     return 0;
 }
 ```
