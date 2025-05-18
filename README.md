@@ -11,4 +11,4 @@ I fully support FOSS and I'm a proud [arch](https://archlinux.org) user.
 - _more stuff here.. you get the gist_
 
 You've read this far, might as well check me out on other platforms
-- [Fosstodon](https://libremercs.dev/@samuel)
+- [Fediverse](https://libremercs.dev/@samuel)
